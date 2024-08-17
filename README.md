@@ -5,9 +5,8 @@
 **Um pouco sobre mim:**
 - Entusiasta da tecnologia e autodidata  
 - Apaixonado por ciência e suas aplicações
-- Mergulhando no mundo da Segurança da Informação
+- Estudando sobre o mundo da Segurança da Informação
 - Sempre aprendendo e ampliando meus conhecimentos
-- [Freelancer](https://www.freelancer.com/u/jaimecsilva?frm=jaimecsilva&sb=t)
 <br><br>
 ## 🔧 Tecnologias e Ferramentas:
 <br>

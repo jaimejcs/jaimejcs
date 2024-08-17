@@ -1,6 +1,6 @@
 ## Fala, gente boa
 
-**Me chamo Jaime e atualmente sou um estudante de Engenharia de Software na UFG!**
+**Me chamo Jaime e atualmente sou um estudante de Engenharia de Software na UFG**
 <br><br>
 **Um pouco sobre mim:**
 - Entusiasta da tecnologia e autodidata  

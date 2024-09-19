@@ -1,4 +1,4 @@
-## Sobre mim
+## Resumo
 
 **Me chamo Jaime e atualmente sou um estudante de Engenharia de Software na UFG**
 <br><br>

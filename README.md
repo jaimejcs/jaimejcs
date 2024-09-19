@@ -1,4 +1,4 @@
-## Fala, gente boa
+## Sobre mim
 
 **Me chamo Jaime e atualmente sou um estudante de Engenharia de Software na UFG**
 <br><br>
